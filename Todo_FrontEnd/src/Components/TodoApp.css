@@ -1,0 +1,22 @@
+input,label,button{
+    margin:10px;
+    padding:8px;
+    font-size:15px;
+}
+
+.success{
+    font-size:25px;
+    color:green;
+}
+
+.failure,.error{
+    font-size:25px;
+    color:red;
+}
+
+footer > div{
+    bottom:0px;
+    position: absolute;
+    width:100%;
+    background-color: whitesmoke;
+}
